@@ -5,4 +5,3 @@ http://localhost:8080/FarmFresh/swagger-ui/index.html#/
 
 LocalHost :
 http://localhost:8080/FarmFresh
->>>>>>> branch-pratik
